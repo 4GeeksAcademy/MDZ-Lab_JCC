@@ -7,5 +7,6 @@ Exponer de forma controlada servicios web
 Configuración segura de NAT
 
 En los archivos siguientes encontrarás:
+- Archivo final de Packet Tracer
 - Informe técnico del laboratorio
 - Evidencia de los resultados de las pruebas realizadas
